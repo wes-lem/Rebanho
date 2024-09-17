@@ -2,6 +2,8 @@
 
 Este é um template simples de site para rebanhos de animais, desenvolvido utilizando apenas **HTML** e **CSS**. O foco do design é ser leve, funcional e de fácil personalização.
 
+![LandingPage Rebanho](landingpage.png)
+
 ## 📑 Funcionalidades
 
 - **Design Simples:** Fácil de navegar e entender.
